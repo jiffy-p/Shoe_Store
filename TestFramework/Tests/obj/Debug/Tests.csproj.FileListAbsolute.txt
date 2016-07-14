@@ -1,0 +1,13 @@
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\bin\Debug\IEDriverServer.exe
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\bin\Debug\Tests.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\bin\Debug\Tests.pdb
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\bin\Debug\TestFramework.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\bin\Debug\TestFramework.pdb
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\obj\Debug\Tests.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\Tests\obj\Debug\Tests.pdb
+C:\Users\jiffypirate\Documents\Visual Studio 2015\Projects\TestFramework\Tests\bin\Debug\WebDriver.dll
+C:\Users\jiffypirate\Documents\Visual Studio 2015\Projects\TestFramework\Tests\bin\Debug\WebDriver.xml
+C:\Users\jiffypirate\Documents\Visual Studio 2015\Projects\TestFramework\Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\jiffypirate\Documents\Visual Studio 2015\Projects\TestFramework\Tests\bin\Debug\WebDriver.Support.xml

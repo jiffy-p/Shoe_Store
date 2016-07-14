@@ -1,0 +1,11 @@
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\IEDriverServer.exe
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\Selenium.WebDriver.Extensions.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\WebDriver.Support.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\bin\Debug\WebDriver.Support.xml
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+c:\users\jiffypirate\documents\visual studio 2015\Projects\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
